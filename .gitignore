@@ -1,0 +1,5 @@
+*~
+*#
+*.pyc
+sphinx/_build
+doc/.buildinfo
